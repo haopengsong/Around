@@ -1,2 +1,1 @@
-## GrabEvent
 ### Android App
